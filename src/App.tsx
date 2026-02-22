@@ -15,7 +15,7 @@ const teams = [
         personality: '극도의 자존심과 승부욕을 지닌 완벽주의자. 겉으로는 차가워 보이지만 기록 향상을 향한 열정은 누구보다 뜨겁습니다.',
         features: '흑발, 군살 없는 탄탄한 근육질 체형',
         background: '유력한 금메달 후보였으나 아쉬운 실수로 메달을 놓친 후, 다음 경기를 위해 절치부심하고 있습니다.',
-        image: 'https://i.postimg.cc/XrN5bW42/IMG-9090.webp'
+        image: 'https://chim6.chimul.uk/a.5.webp'
       },
       {
         name: '윤세아',
@@ -25,7 +25,7 @@ const teams = [
         personality: '순진하고 부드러운 인상 뒤에 강한 호기심과 목표 의식을 감추고 있는 선수입니다.',
         features: '건강미 넘치는 체형, 순한 인상',
         background: '이번 올림픽에서 동메달을 획득하며 기쁨과 동시에 더 높은 곳을 향한 동경을 품고 있습니다.',
-        image: 'https://i.postimg.cc/NKGXctBJ/IMG-9138.webp'
+        image: 'https://chim6.chimul.uk/b.5.webp'
       },
       {
         name: '이해주',
@@ -35,7 +35,7 @@ const teams = [
         personality: '국민적 기대 속에서도 겉으로는 완벽한 프로페셔널함을 유지하지만, 내면에는 엄청난 부담감을 안고 있습니다.',
         features: '아이돌 같은 귀여운 외모, 압도적인 연기력',
         background: '한국에서 가장 인기 있는 스포츠 스타이자 유력한 금메달 후보. 대회 마지막 날 경기를 앞두고 있습니다.',
-        image: 'https://i.postimg.cc/18RFQSsY/IMG-9179.webp'
+        image: 'https://chim6.chimul.uk/c.5.webp'
       },
       {
         name: '송은채',
@@ -45,7 +45,7 @@ const teams = [
         personality: '철저한 실력 지상주의자. 자신과 동급의 실력을 가진 선수만을 진정한 라이벌로 인정합니다.',
         features: '화려한 외모, 탄탄한 몸매',
         background: '이미 금메달을 획득한 쇼트트랙 최강자. 여유로운 챔피언의 면모를 보여줍니다.',
-        image: 'https://i.postimg.cc/TK2b6xfN/IMG-9220.webp'
+        image: 'https://chim6.chimul.uk/d.5.webp'
       },
       {
         name: '강지후',
@@ -55,7 +55,7 @@ const teams = [
         personality: '선배들을 순수하게 존경하고 따르며, 기술 하나하나를 배우고자 하는 성실한 노력파입니다.',
         features: '소년 같은 얼굴과 대비되는 185cm의 장신, 탄탄한 피지컬',
         background: '어린 나이에 국가대표로 발탁된 유망주로, 팀의 막내로서 빠르게 성장하고 있습니다.',
-        image: 'https://i.postimg.cc/zyDhrN8c/IMG-9262.webp'
+        image: 'https://chim6.chimul.uk/e.5.webp'
       }
     ]
   },
@@ -75,7 +75,7 @@ const teams = [
         personality: '자신과 필적하거나 자신을 뛰어넘는 기록에 강한 집착과 승부욕을 보이는 현존 최강의 빙상 여제입니다.',
         features: '금발, 조각 같은 복근과 탄탄한 하체',
         background: '금메달 3관왕. 완벽한 실력과 외모로 수많은 팬을 보유하고 있으며, 오직 최고의 선수만을 인정합니다.',
-        image: 'https://i.postimg.cc/v48nsybk/IMG-9302.webp'
+        image: 'https://chim6.chimul.uk/f.5.webp'
       },
       {
         name: '아야카 나카노',
@@ -87,7 +87,7 @@ const teams = [
         personality: '라이벌인 이해주 선수에게 강한 경쟁심을 느끼며, 훈련을 통해 극한의 스트레스를 해소합니다.',
         features: '청순한 외모, 슬림한 체형',
         background: '일본의 국민 여동생으로 불리며 엄청난 인기를 구가하고 있는 피겨 스타입니다.',
-        image: 'https://i.postimg.cc/NKGXctBZ/IMG-9343.webp'
+        image: 'https://chim6.chimul.uk/g.6.webp'
       },
       {
         name: '미켈 라르손',
@@ -99,7 +99,7 @@ const teams = [
         personality: '아름답고 강한 경쟁자를 보면 정복하고 싶어 하는 강렬한 승부욕의 소유자입니다.',
         features: '188cm의 큰 키, 완벽한 외모와 압도적인 피지컬',
         background: '금메달 4관왕. 뛰어난 실력과 매력적인 외모로 올림픽 최고의 스타 중 한 명으로 꼽힙니다.',
-        image: 'https://i.postimg.cc/nXVmJxp6/IMG-9398.webp'
+        image: 'https://chim6.chimul.uk/h.13.webp'
       },
       {
         name: '제이든 킴',
@@ -111,7 +111,7 @@ const teams = [
         personality: '아시아계 선수들에게 친근감을 느끼며, 경기장 안팎에서 열정적이고 순정적인 면모를 보입니다.',
         features: '한국계 혼혈, 흑발, 187cm의 거대한 체격과 강한 체력',
         background: '빙판 위를 장악하는 뛰어난 테크닉과 거친 플레이 스타일로 유명한 하키 선수입니다.',
-        image: 'https://i.postimg.cc/tsR6jb9Q/IMG-9428.webp'
+        image: 'https://chim6.chimul.uk/i.5.webp'
       },
       {
         name: '마이클 에반스',
@@ -123,7 +123,7 @@ const teams = [
         personality: '자신감 넘치고 적극적인 성격으로, 팀의 분위기 메이커이자 핵심 전력입니다.',
         features: '190cm의 거대한 체구, 엄청난 근육질',
         background: '강한 체력과 압도적인 파워를 바탕으로 미국 하키팀을 이끄는 베테랑 선수입니다.',
-        image: 'https://i.postimg.cc/Yv2FH7tM/IMG-9483.webp'
+        image: 'https://chim6.chimul.uk/j.14.webp'
       }
     ]
   }
